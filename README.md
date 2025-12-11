@@ -1,4 +1,4 @@
 ## Installation
 ```
-pip installation -r requirements.txt
+pip install -r requirements.txt
 ```
